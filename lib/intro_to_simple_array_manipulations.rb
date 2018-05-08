@@ -23,10 +23,11 @@ def shift_with_args(array)
 end
 
 def using_con_cat(array1,array2)
-  
+  array.concat(array2)
 end
 
 def using_insert
+  
 end
 
 def using_uniq
